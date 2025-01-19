@@ -2,4 +2,4 @@
 title: Welcome
 ---
 
-[Posts](/_posts)
+[Posts](_posts)
