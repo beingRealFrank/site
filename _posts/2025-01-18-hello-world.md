@@ -1,7 +1,8 @@
 ---
 title: "Hello World!"
 date: 2025-01-18
-by: Frank
+by: "Frank"
+tags: [personal, technology, blogging]
 ---
 Hey folks,
 
