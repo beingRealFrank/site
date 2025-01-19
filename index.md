@@ -5,7 +5,7 @@ title: Welcome
 # Personal Posts
 {% for post in site.posts %}
 {% if post.tags contains "personal" %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endif %}
 {% endfor %}
 
