@@ -11,6 +11,7 @@ Nothing to see here.
 ### {{ date.name | date: "%B %d, %Y" }}
 {% for post in date.items %}
 - [{{ post.title }}]({{ post.url | relative_url }})
+{{ post.excerpt }}
 {% endfor %}
 {% endfor %}
 {% endif %}
@@ -25,6 +26,7 @@ Nothing to see here.
 ### {{ date.name | date: "%B %d, %Y" }}
 {% for post in date.items %}
 - [{{ post.title }}]({{ post.url | relative_url }})
+{{ post.excerpt }}
 {% endfor %}
 {% endfor %}
 {% endif %}
