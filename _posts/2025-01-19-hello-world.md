@@ -19,6 +19,6 @@ This renewed passion for coding has extended into my personal projects. I’ve b
 ## Reason Three: The Internet is Changing
 I believe we’re witnessing a major evolution in how we use the internet. Technologies like Web3, generative AI, and federated social media are reshaping how we interact and create. Social media companies are making moves to adapt, but I see an opportunity to step outside their ecosystem and explore alternatives.
 
-This site is my experiment. Maybe it’ll seem like one of Frank’s crazy ideas, but I see it as a detour. The future is uncertain, but I’m betting it will look very different from today. Who knows? Perhaps we’ll all host our own content someday, merging it in ways we can’t yet imagine.
+This site is my experiment. Maybe it’ll seem like one of Frank’s crazy ideas, but I see it as a necessary detour. The future is uncertain, but I’m betting it will look very different from today. Who knows? Perhaps we’ll all host our own content someday, merging it in ways we can’t yet imagine.
 
 I hope you’ll join me on this journey. Bookmark this page and check back for updates. Let’s explore what the future holds—together.
