@@ -9,9 +9,9 @@ Hey folks,
 I’m starting a new website. I’ve done this many times, but this time feels different. This site is my attempt to break away from social media and create something more personal, meaningful, and future-proof. Here’s why.
 
 ## Reason One: Moving Away from Social Media
-I’ve decided to pause—or perhaps outright discontinue—creating content for social media platforms. Over time, I’ve grown to dislike what platforms like Facebook and Instagram have become: cesspools of negativity and corporate overreach. Mark Zuckerberg’s recent decisions, including his open support of Donald Trump’s policies and campaign, have cemented my decision to stop feeding these platforms my content.
+I’ve decided to pause—or perhaps outright discontinue—creating content for social media platforms. Over time, I’ve grown to dislike what platforms like Facebook and Instagram have become: cesspools of negativity and corporate overreach. Mark Zuckerberg’s recent decisions, including his monetary and policy support of Donald Trump, have solidified my decision to stop feeding these platforms my content. The fact that today is Inauguration Day for Trump’s second term makes this feel a bit more poetic. 
 
-I won’t delete my accounts—I’ll still lurk occasionally to stay in touch with my mother or find local events. But if you want updates from me, you’ll need to visit this site.
+While I’ll still keep Facebook for rare occasions—like staying in touch with my mother or finding local events—I won’t post new updates there. From now on, this site will be the home for my content.
 
 ## Reason Two: A Professional Reinvention
 I’m approaching the one-year mark of a significant shift in my career. After leaving Comcast and joining Bloomberg, I transitioned out of leadership roles to return to my roots in software development. With Bloomberg’s support, I’ve spent the past year writing code again—primarily in Python and Go, focused on data engineering. This change has brought me more joy and fulfillment in my work than I’ve felt in decades.
