@@ -12,6 +12,6 @@ title: Welcome
 # Professional Posts
 {% for post in site.posts %}
 {% if post.tags contains "professional" %}
-- [{{ post.title }}]({{ post.url | relative_url }})
+- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
 {% endif %}
 {% endfor %}
