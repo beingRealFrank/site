@@ -2,16 +2,22 @@
 title: Welcome
 ---
 
-# Personal Posts
-{% for post in site.posts %}
-{% if post.tags contains "personal" %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endif %}
+# Personal Posts by Date
+{% assign posts_by_date = site.posts | where: "tags", "personal" | group_by_exp: "post", "post.date" %}
+{% for date in posts_by_date %}
+## {{ date.name | date: "%B %d, %Y" }}
+{% for post in date.items %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
 {% endfor %}
 
+
 # Professional Posts
-{% for post in site.posts %}
-{% if post.tags contains "professional" %}
-- [{{ post.title }}]({{ post.url | relative_url }}) - {{ post.date | date: "%B %d, %Y" }}
-{% endif %}
+# Personal Posts by Date
+{% assign posts_by_date = site.posts | where: "tags", "professional" | group_by_exp: "post", "post.date" %}
+{% for date in posts_by_date %}
+## {{ date.name | date: "%B %d, %Y" }}
+{% for post in date.items %}
+- [{{ post.title }}]({{ post.url | relative_url }})
+{% endfor %}
 {% endfor %}
