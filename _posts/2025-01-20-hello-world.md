@@ -14,9 +14,9 @@ I’ve decided to pause—or perhaps outright discontinue—creating content for
 I won’t delete my accounts—I’ll still lurk occasionally to stay in touch with my mother or find local events. But if you want updates from me, you’ll need to visit this site.
 
 ## Reason Two: A Professional Reinvention
-This month marks one year since I reinvented my career. After leaving Comcast and joining Bloomberg, I shifted out of leadership roles to return to my roots in software development. With Bloomberg’s support, I’ve spent the last year writing code again, primarily in Python and Go, focused on data engineering. It’s been the most fulfilling work I’ve done in decades.
+I’m approaching the one-year mark of a significant shift in my career. After leaving Comcast and joining Bloomberg, I transitioned out of leadership roles to return to my roots in software development. With Bloomberg’s support, I’ve spent the past year writing code again—primarily in Python and Go, focused on data engineering. This change has brought me more joy and fulfillment in my work than I’ve felt in decades.
 
-This return to coding has reignited my passion for technical projects. At home, I’ve been diving into blockchain technology and developing tools to analyze cryptocurrency markets. As I learn and build, I plan to share useful insights and tools here.
+This renewed passion for coding has extended into my personal projects. I’ve been diving into blockchain technology and building tools to analyze cryptocurrency markets. As I learn and experiment, I plan to share useful insights and tools here.
 
 ## Reason Three: The Internet is Changing
 I believe we’re witnessing a major evolution in how we use the internet. Technologies like Web3, generative AI, and federated social media are reshaping how we interact and create. Social media companies are making moves to adapt, but I see an opportunity to step outside their ecosystem and explore alternatives.
