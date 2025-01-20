@@ -2,9 +2,7 @@
 title: Welcome
 ---
 
-## <span style="border-bottom: 1px dashed;">
-Personal Posts
-</span>
+## <span style="border-bottom: 1px dashed;">Personal Posts</span>
 {% assign posts_by_date = site.posts | where: "tags", "personal" | group_by_exp: "post", "post.date" %}
 {% if posts_by_date.size == 0 %}
 Nothing to see here.
@@ -19,9 +17,7 @@ Nothing to see here.
 {% endif %}
 
 
-## <span style="border-bottom: 1px dashed;">
-Professional Posts
-</span>
+## <span style="border-bottom: 1px dashed;">Professional Posts</span>
 {% assign posts_by_date = site.posts | where: "tags", "professional" | group_by_exp: "post", "post.date" %}
 {% if posts_by_date.size == 0 %}
 Nothing to see here.
