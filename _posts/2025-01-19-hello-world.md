@@ -4,7 +4,7 @@ date: 2025-01-19
 by: "Frank"
 tags: [personal, technology, blogging]
 ---
-Hey folks. I’m starting a new website. I’ve done this many times, but honestly, this time feels different. This site is my attempt to break away from social media and create something more personal, meaningful, and future-proof. Here’s why.
+Hey folks. I’m starting a new website. I’ve done this many times and failed to be consistent, but honestly, this time feels different. This site is my attempt to break away from social media and create something more personal, meaningful, and future-proof. Here’s why.
 
 ## Reason One: Principles 
 I’ve decided to pause—or perhaps outright discontinue—creating content for social media platforms. Over time, I’ve grown to dislike what platforms like Facebook and Instagram have become: cesspools of negativity and corporate overreach. Mark Zuckerberg’s recent decisions, including his monetary and policy support of Donald Trump, have solidified my decision to stop feeding these platforms my content. The fact that tomorrow is Inauguration Day for Trump’s second term makes this feel a bit more poetic. 
