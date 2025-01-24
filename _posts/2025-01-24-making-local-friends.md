@@ -10,7 +10,7 @@ If you have interest or know anyone who does, please reach out. I'll leave my em
 
 Thanks!
 
-[frankjgilroy@gmail.com](mailto://frankjgilroy@gmail.com)
+[frankjgilroy@gmail.com](mailto:frankjgilroy@gmail.com)
 
 
 
