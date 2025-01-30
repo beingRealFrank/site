@@ -12,4 +12,4 @@ Definitely won’t be my last time there.
 
 I've started a page where I'm going to keep track of places like this. Check it out. 
 
-[Favorite Mocktail Bars](pages/mocktail-bars)
+[Favorite Mocktail Bars](/pages/mocktail-bars)
