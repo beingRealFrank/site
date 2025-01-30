@@ -4,10 +4,14 @@ title: Meditation Prompts
 ---
 
 ### Four Noble Truths
-1. There is suffering. I commit to understanding the truth of suffering.
-2. There is a cause of suffering. I commit to understanding that craving leads to suffering.
-3. There is a way of ending suffering. I commit to understanding and experiencing that less craving leads to less suffering.
-4. There is a path that leads to ending suffering, the Eightfold Path. I commit to cultivating the path.
+1. There is suffering. 
+   - I commit to understanding the truth of suffering.
+2. There is a cause of suffering. 
+   - I commit to understanding that craving leads to suffering.
+3. There is a way of ending suffering. 
+   - I commit to understanding and experiencing that less craving leads to less suffering.
+4. There is a path that leads to ending suffering. 
+   - I commit to cultivating the Eightfold Path.
 
 ### The Eightfold Path
 1. Wise Understanding
