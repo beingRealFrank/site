@@ -1,5 +1,6 @@
 ---
 title: beingRealFrank - Not So Useful (Blather) Posts
+permalink: /blather/
 ---
 
 ## <span style="border-bottom: 1px dashed;">Useful Posts</span>
