@@ -1,6 +1,7 @@
 ---
 title: Hakate Mocktail Bar
-tags: [personal]
+tags: [drinks, social]
+categories: Blather
 ---
 Last night, a friend and I went to Hekate, NYC’s sober bar, for a night of mocktails and drag bingo. It wasn’t my first time there, but it was my first time really leaning into the experience—and I’m glad I did.
 

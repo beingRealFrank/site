@@ -1,6 +1,7 @@
 ---
 title: "Making Local Friends"
-tags: [personal, technology]
+tags: [social]
+categories: Blather
 ---
 
 I've been thinking quite a bit latley about doing more to make friends around the homefront. I use to have this narrative that it was hard for me to make friends because my interests are a little niche. I've decided that's pretty dumb in this day and age. The internet means any two people with arguably wacky hobbies can find each other. 

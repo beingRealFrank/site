@@ -2,7 +2,8 @@
 title: "Hello World!"
 date: 2025-01-19
 by: "Frank"
-tags: [personal, technology, blogging]
+tags: [blogging, writing]
+categories: Blather
 ---
 Hey folks. I’m starting a new website. I’ve done this many times and failed to be consistent, but honestly, this time feels different. This site is my attempt to break away from social media and create something more personal, meaningful, and future-proof. Here’s why.
 

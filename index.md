@@ -2,31 +2,4 @@
 title: beingRealFrank
 ---
 
-## <span style="border-bottom: 1px dashed;">Personal Posts</span>
-{% assign posts_by_date = site.posts | where: "tags", "personal" | group_by_exp: "post", "post.date" %}
-{% if posts_by_date.size == 0 %}
-Nothing to see here.
-{% else %}
-{% for date in posts_by_date %}
-### {{ date.name | date: "%B %d, %Y" }}
-{% for post in date.items %}
-- [{{ post.title }}]({{ post.url | relative_url }})
-{{ post.excerpt }}[(read more)]({{ post.url | relative_url }})
-{% endfor %}
-{% endfor %}
-{% endif %}
-
-
-## <span style="border-bottom: 1px dashed;">Professional Posts</span>
-{% assign posts_by_date = site.posts | where: "tags", "professional" | group_by_exp: "post", "post.date" %}
-{% if posts_by_date.size == 0 %}
-Nothing to see here.
-{% else %}
-{% for date in posts_by_date %}
-### {{ date.name | date: "%B %d, %Y" }}
-{% for post in date.items %}
-- [{{ post.title }}]({{ post.url | relative_url }})
-{{ post.excerpt }}[(read more)]({{ post.url | relative_url }})
-{% endfor %}
-{% endfor %}
-{% endif %}
+Hi there. Welcome to my site, and thanks for stopping by. My name is Frank. I am a Senior Software Engineer by trade, but also like to write. I've orgnaized this site into two broad categories-- Personal posts, otherwise known as [blather](/blather/), and [useful posts](/useful/).
