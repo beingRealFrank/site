@@ -6,4 +6,4 @@ Hi there. Welcome to my site, and thanks for stopping by. My name is Frank. I've
 
 I've organized this site into two broad categories: personal posts, aka [blather](/blather/), and [useful posts](/useful/).
 
-I am obsessed with Pokémon Go. Feel free to take a gander at my [Pokémon Go Resource Page](/pokemon-go/).
+I am obsessed with Pokémon Go. Take a gander at my [Pokémon Go Resources page](/pokemon-go/).
