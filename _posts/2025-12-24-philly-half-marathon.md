@@ -14,7 +14,7 @@ categories: Blather
   allowtransparency="true"
   style="background: transparent;"
 ></iframe>
-<br>
+
 Thought I'd dust the old blog off a bit.  
 
 Don't really have a ton to say here... 
