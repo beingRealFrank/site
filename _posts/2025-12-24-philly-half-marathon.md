@@ -5,6 +5,16 @@ tags: [running]
 categories: Blather
 ---
 
+<iframe 
+  src="https://www.instagram.com/p/DRaI9VeiXSO/embed"
+  width="400"
+  height="480"
+  frameborder="0"
+  scrolling="no"
+  allowtransparency="true"
+  style="background: transparent;"
+></iframe>
+<br>
 Thought I'd dust the old blog off a bit.  
 
 Don't really have a ton to say here, other than... 
@@ -16,15 +26,3 @@ I ran the Philly Half in November.
 I'm pretty proud I got back out there.
 
 Thought I'd try to embed a pic, just to see if it works.
-
-<br>
-<iframe 
-  src="https://www.instagram.com/p/DRaI9VeiXSO/embed"
-  width="400"
-  height="480"
-  frameborder="0"
-  scrolling="no"
-  allowtransparency="true"
-  style="background: transparent;"
-></iframe>
-<br>
