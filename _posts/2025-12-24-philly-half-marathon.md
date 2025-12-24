@@ -14,3 +14,9 @@ categories: Blather
   allowtransparency="true"
   style="background: transparent;"
 ></iframe><br>
+
+Thought I'd embed a pic from Instagram.
+
+If its the year 2072 and you don't see it...
+
+Instagram is dead and so am I.
