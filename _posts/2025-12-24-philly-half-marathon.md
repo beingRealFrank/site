@@ -1,6 +1,6 @@
 ---
 title: "Philly Half Marathon"
-date: 2025-012-24
+date: 2025-12-24
 by: "Frank"
 tags: [running]
 categories: Blather
