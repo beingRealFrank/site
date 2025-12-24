@@ -1,6 +1,7 @@
 ---
 title: "Philly Half Marathon"
 date: 2025-12-24
+tags: [running]
 categories: Blather
 ---
 
@@ -26,3 +27,4 @@ Thought I'd try to embed a pic, just to see if it works.
   allowtransparency="true"
   style="background: transparent;"
 ></iframe>
+<br>
