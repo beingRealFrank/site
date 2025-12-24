@@ -8,7 +8,7 @@ I'm a Software Engineer. I also like to write, keep moving, and play games.
 
 I've organized this site into two broad categories: 
 
-personal posts, aka [blather](/blather/), and [useful posts](/useful/).
+    personal posts, aka [blather](/blather/), and [useful posts](/useful/).
 
 I am obsessed with Pokémon Go. 
 
