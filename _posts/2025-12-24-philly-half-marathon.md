@@ -17,7 +17,7 @@ categories: Blather
 <br>
 Thought I'd dust the old blog off a bit.  
 
-Don't really have a ton to say here, other than... 
+Don't really have a ton to say here... 
 
 I'm looking forward to another productive year in 2026.
 
