@@ -14,15 +14,3 @@ categories: Blather
   allowtransparency="true"
   style="background: transparent;"
 ></iframe>
-
-Thought I'd dust the old blog off a bit.  
-
-Don't really have a ton to say here... 
-
-I'm looking forward to another productive year in 2026.
-
-I ran the Philly Half in November.
-
-I'm pretty proud I got back out there.
-
-Thought I'd try to embed a pic, just to see if it works.
