@@ -7,8 +7,8 @@ categories: Blather
 
 <iframe 
   src="https://www.instagram.com/p/DRaI9VeiXSO/embed"
-  width="400"
-  height="480"
+  width="300"
+  height="360"
   frameborder="0"
   scrolling="no"
   allowtransparency="true"
