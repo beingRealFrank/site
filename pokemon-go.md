@@ -18,5 +18,8 @@ The two cirlces targeting a pokémon with a pokéball indicate where you have to
 Circle Locking, is a technique for freezing the oscialing inner target circle in a location that ensures you achieve the throw rating you want. This [video demostrates the circle locking technique](https://www.youtube.com/shorts/mFxdTlG2-Vo).
 
 ## * Task Stacking
+Task stacking is pretty simple. When you recieve an encounter from a research task in the "Today" tab, you don't have to catch it.  The catch is guarunteed, the pokémon won't run away.  You can feed the pokémon a berry for easier catching or increased candy later and just exit the catch screen.  When you return you'll see a thin orange "Claim Reward" box. Clicking it will return all the encounters sequentially for catching. As of the time of this writing, it was believed you could stack a total of 100 encounters.  This is especially useful for maximizing double candy, stardust or XP event rewards for mon that already have increases in these rewards.
 
 # Other Resources
+* [The Sliph Road Subreddit](https://www.reddit.com/r/TheSilphRoad/)
+* [LeekDuck](https://leekduck.com)
