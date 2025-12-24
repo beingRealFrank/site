@@ -6,9 +6,15 @@ tags: [running]
 categories: Blather
 ---
 
-Thought I'd dust the old blog off a bit.  Don't really have a ton to say here, other than I'm looking forward to another productive year in 2026.
+Thought I'd dust the old blog off a bit.  
 
-I ran the Philly Half Marathon in November and I'm pretty proud that I've gotten back out there.
+Don't really have a ton to say here, other than... 
+
+I'm looking forward to another productive year in 2026.
+
+I ran the Philly Half Marathon in November.
+
+I'm pretty proud that I've gotten back out there.
 
 Thought I'd try to embed a pic, just to see if it works.
 <br><br>
