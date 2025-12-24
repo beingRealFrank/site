@@ -17,6 +17,6 @@ categories: Blather
 
 Thought I'd embed a pic from Instagram.
 
-If its the year 2072 and you don't see it...
+If it's 2072 and you don't see it...
 
 Instagram is dead and so am I.
