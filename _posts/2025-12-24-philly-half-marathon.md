@@ -1,7 +1,7 @@
 ---
 title: "Philly Half Marathon"
 date: 2025-12-24
-tags: [running]
+tags: [running, pics]
 categories: Blather
 ---
 
