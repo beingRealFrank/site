@@ -4,7 +4,7 @@ title: beingRealFrank
 
 Hi there. Welcome to my site, and thanks for stopping by. My name is Frank. 
 
-I'm a Computer Geek and Data Engineer. I also like to write, keep moving, and play games. 
+I'm a Software and Data Engineer. I also like to write, keep moving, and play games. 
 
 I've organized this site into two broad categories: personal posts, aka [blather](/blather/), and [useful posts](/useful/).
 
