@@ -13,8 +13,7 @@ categories: Blather
   scrolling="no"
   allowtransparency="true"
   style="background: transparent;"
-></iframe><br>
-
+></iframe>
 Thought I'd embed a pic from Instagram.
 
 If it's 2072 and you don't see it...
